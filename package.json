@@ -1,0 +1,17 @@
+{
+  "name": "tg-sales-bot",
+  "version": "1.0.0",
+  "description": "Telegram Sales Assistant Bot",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2",
+    "localtunnel": "^2.0.2",
+    "telegraf": "^4.16.3",
+    "untun": "^0.1.3"
+  }
+}
